@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Jatpi👋</h1>
 <h3 align="center">A student building a strong foundation in systems and software engineering.</h3>
 
+---
+
 - 🌱 I’m currently learning **React and Next.js**
 
 <h3 align="left">Connect with me:</h3>
