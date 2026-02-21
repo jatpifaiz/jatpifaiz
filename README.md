@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jatpi</h1>
+<h1 align="center">Hi, I'm Jatpi👋</h1>
 <h3 align="center">A student building a strong foundation in systems and software engineering.</h3>
 
 ---
